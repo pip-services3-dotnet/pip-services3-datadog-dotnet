@@ -6,4 +6,3 @@ services:
       context: ..
       dockerfile: docker/Dockerfile.test
     image: ${IMAGE:-pipdevs/test}
-
