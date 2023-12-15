@@ -1,5 +1,10 @@
 # GRPC communication for Pip.Services in .NET Changelog
 
+## <a name="3.4.0"></a> 3.4.0 (2023-12-15)
+
+### Breaking Changes
+* Migrate to .NET 8.0
+
 ## <a name="3.3.0"></a> 3.3.0 (2022-08-04)
 
 ### Breaking Changes
